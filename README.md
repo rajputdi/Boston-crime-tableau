@@ -4,6 +4,9 @@
 
 This Tableau project provides a comprehensive analysis of crime incidents across Boston neighborhoods. The dashboard visualizes key metrics and trends to help users understand the patterns and frequency of crimes over time, by location, and by hour of the day. With interactive features and insightful metrics, this tool is designed to support data-driven decision-making for enhancing community safety and planning resource allocation.
 
+![image](https://github.com/user-attachments/assets/4ddec05b-d4a4-4aba-9193-27612032bb08)
+
+
 ## Features
 
 1. **Moving Average of Crimes**:
